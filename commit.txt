@@ -1,3 +1,9 @@
-sdvs
+<<<<<<< Updated upstream
+sdvs1
 ubjb
 ggg
+=======
+sd
+sdnfsdknvksd
+ixjnnkbjb
+>>>>>>> Stashed changes
